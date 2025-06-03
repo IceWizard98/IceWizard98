@@ -6,10 +6,32 @@
 - 🧪 Experimenting with Neovim and terminal setups
 - 🔧 Creating nerd tools
 
-📫 How to reach me:
-- Website: [luise.ac](https://luise.ac)  
-- Mail: [github@luise.ac](mailto:github@luise.ac)
-- GitHub: [github.com/IceWizard98](https://github.com/IceWizard98)  
+<p align="center">
+  <a href="mailto:github@luise.ac" target="_blank" title="Email">
+    <img alt="Email" src="https://img.icons8.com/ios-filled/30/ffffff/email.png"/>
+  </a>
+  <a href="https://luise.ac" target="_blank" title="Website">
+    <img alt="Website" src="https://img.icons8.com/ios-filled/30/ffffff/domain.png"/>
+  </a>
+  <a href="https://github.com/IceWizard98" target="_blank" title="GitHub">
+    <img alt="GitHub" src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/luis-enriquez-aracena-cabrera/" target="_blank" title="LinkedIn">
+    <img alt="LinkedIn" src="https://img.icons8.com/ios-filled/30/ffffff/linkedin.png"/>
+  </a>
+  <a href="https://www.instagram.com/luis_enriquez98" target="_blank" title="Instagram">
+    <img alt="Instagram" src="https://img.icons8.com/ios-filled/30/ffffff/instagram-new.png"/>
+  </a>
+  <a href="https://www.tiktok.com/@luisenriquez_98" target="_blank" title="TikTok">
+    <img alt="TikTok" src="https://img.icons8.com/ios-filled/30/ffffff/tiktok.png"/>
+  </a>
+  <a href="https://discord.com/invite/4UXGyYN4er" target="_blank" title="Discord">
+    <img alt="Discord" src="https://img.icons8.com/ios-filled/30/ffffff/discord-logo.png"/>
+  </a>
+  <a href="https://bsky.app/profile/luise.ac" target="_blank" title="Bluesky">
+    <img alt="Bluesky" src="https://img.icons8.com/ios-filled/30/ffffff/rocket.png"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
