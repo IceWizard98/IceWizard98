@@ -32,7 +32,6 @@
 </p>
 
 <p align="center">
-  ![snake gif](https://github.com/IceWizard98/IceWizard98/blob/output/github-contribution-grid-snake.svg)
   <img src="https://github-readme-stats.vercel.app/api?username=IceWizard98&show_icons=true&theme=radical" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IceWizard98&theme=radical" alt="streak" />
 </p>
