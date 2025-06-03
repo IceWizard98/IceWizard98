@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Luis Enriquez</h1>
 <h3 align="center">Full Stack Developer | Linux Enthusiast | Tinkerer</h3>
-
-🌱 I’m currently working on:
-- 🧰 Tools that make developer life easier  
-- 🔐 Projects focused on security and performance  
-- 🐧 Stuff that runs smoothly on Linux  
-
+ 
 🔍 I’m exploring:
 - ⚡️ Low-level optimizations  
-- 🧪 Experimenting with Neovim and terminal setups  
-- 💡 Contributing to open-source projects  
+- 🧪 Experimenting with Neovim and terminal setups
+- 🔧 Creating nerd tools
 
 📫 How to reach me:
 - Website: [luise.ac](https://luise.ac)  
